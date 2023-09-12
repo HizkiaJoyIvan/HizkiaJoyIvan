@@ -6,8 +6,8 @@ I'm currently learning about software development and data analytics in general
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrinsectt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrinsectt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=HizkiaJoyIvan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HizkiaJoyIvan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinsectt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Codewars Stats:
