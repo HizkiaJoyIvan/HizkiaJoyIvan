@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning about software development, with main focus in back end development, front end development, and mobile development
+I'm currently learning about software development, with main focus in back end development, front end development, and (vaguely) mobile development
 
 # 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,tailwind,angular,nodejs,cs,postgres,laravel,mongodb,py,java&perline=7" alt="Tech Stack" /> 
