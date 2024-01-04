@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm currently learning about software development, with main focus in back end development, front end development, and (vaguely) mobile development
+I'm currently learning about software development, with main focus in back end development, front end development, and (vaguely) android development
 
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,tailwind,angular,nodejs,cs,postgres,laravel,mongodb,py,java&perline=7" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,tailwind,nodejs,cs,postgres,laravel,mongodb,py,kotlin&perline=7" alt="Tech Stack" /> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HizkiaJoyIvan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
