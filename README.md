@@ -2,7 +2,7 @@
 I'm currently learning about software development, with main focus in fullstack web development and mobile development
 
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,postgres,laravel,mongodb,py,flutter&perline=6" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,postgres,laravel,mongodb,py,reactnative,kotlin&perline=6" alt="Tech Stack" /> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HizkiaJoyIvan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
