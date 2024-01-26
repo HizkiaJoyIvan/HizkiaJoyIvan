@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning about software development
+I'm currently learning software development
 
 # 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,postgres,laravel,mongodb,go,cs,angular&perline=6" alt="Tech Stack" /> 
